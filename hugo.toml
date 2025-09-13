@@ -1,5 +1,5 @@
 # Basic config
-baseURL = "https://Faulkner-Ned.github.io"
+baseURL = "https://nedfaulkner.co.uk"
 theme = "hugo-bearcub"
 copyright = "Copyright © 2025, Ned Faulkner"
 defaultContentLanguage = "en"
