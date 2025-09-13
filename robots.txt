@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://faulknerned.co.uk/sitemap.xml
+Sitemap: https://nedfaulkner.co.uk/sitemap.xml
