@@ -3,15 +3,14 @@ title = "Home"
 menu = "main"
 weight = 1
 +++
+I'm a software engineer with over 5 years of experience, based in Reading, UK. I mainly build cloud-native platforms and applications, now exploring AI security. I've also done my fair share of rapid prototyping and web app development.
 
-## Who am I
-My name is Ned Faulkner. I've been a professional software engineer for over 5 years. I'm based in Reading, UK, but would love the opportunity to travel. I'm currently specialised in Cloud/"Cloud-native" applications & Kubernetes but I also have experience rapid-prototyping and developing React web apps.
-
-I feel most comfortable when working with Python, Go, Bash or Infrastructure as Code but I have experience with React.js (TypeScript) and Java (Spring). I have worked on both public and private sector projects at various scales, ranging from small internal applications to high-availability, highly sensitive systems handling millions of records. I try to help out and make the odd contribution where I can within the Open-Source Cloud-Native ecosphere.
+I work primarily with Go, Java (Spring) and Kubernetes, with Infrastructure as Code through Terraform and Ansible. I've also worked with TypeScript (React) and Python. Across both public and private sectors, I've shipped everything from small internal tools to high-availability platforms handling millions of records. I occasionally contribute to open-source cloud-native projects too.
 
 ---
 
-## About this site
-I'm not really one to have a super flashy website. I'd much rather keep it simple and concise.
+## About This Site
 
-This website is mainly a landing page for my domain, which I use to host various applications and to have somewhere to direct people when they ask for my details, almost like a digital business card. I might occasionally write some blog posts if I feel there's something I can add to the conversation, although I'm not much of a blogger.
+This is mostly a landing page for my domain where I host my projects and is a source of my personal email address. I'm not really a blogger, but I'll post occasionally when I have something worth sharing.
+
+This site is intentionally minimal, With no trackers, no cookies or JavaScript bloat. The modern web loads megabytes of scripts just to display a few paragraphs of text, alongside tracking your every move. This site is as a reminder that the web can be fast, accessible, and 'quiet'.
