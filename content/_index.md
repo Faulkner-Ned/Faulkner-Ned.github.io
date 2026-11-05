@@ -3,14 +3,12 @@ title = "Home"
 menu = "main"
 weight = 1
 +++
-I'm a software engineer with over 5 years of experience, based in Reading, UK. I mainly build cloud-native platforms and applications, now exploring AI security. I've also done my fair share of rapid prototyping and web app development.
-
-I work primarily with Go, Java (Spring) and Kubernetes, with Infrastructure as Code through Terraform and Ansible. I've also worked with TypeScript (React) and Python. Across both public and private sectors, I've shipped everything from small internal tools to high-availability platforms handling millions of records. I occasionally contribute to open-source cloud-native projects too.
+I'm a software engineer based in the UK. I mainly build cloud-native platforms and applications, currently I am exploring AI security. I've also done my fair share of rapid prototyping and web app development when needed. Across both public and private sectors, I've helped deliver a range of different software solutions, from small prototypes to high-availability production platforms.
 
 ---
 
 ## About This Site
 
-This is mostly a landing page for my domain where I host my projects and is a source of my personal email address. I'm not really a blogger, but I'll post occasionally when I have something worth sharing.
+This is mostly a landing page for my domain where I host some projects and my personal email address.
 
-This site is intentionally minimal, With no trackers, no cookies or JavaScript bloat. The modern web loads megabytes of scripts just to display a few paragraphs of text, alongside tracking your every move. This site is as a reminder that the web can be fast, accessible, and 'quiet'.
+This site is intentionally minimal, With no trackers, no cookies or JavaScript bloat. The modern web loads megabytes of scripts just to display a few paragraphs of text, alongside wanting to track your every move. I would rather have a simple, static site that loads quickly and doesn't track me or anyone else.

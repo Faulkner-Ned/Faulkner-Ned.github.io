@@ -1,7 +1,7 @@
 # Basic config
 baseURL = "https://nedfaulkner.co.uk"
 theme = "hugo-bearcub"
-copyright = "Copyright © 2025, Ned Faulkner"
+copyright = "Copyright © 2026, Ned Faulkner"
 defaultContentLanguage = "en"
 
 # Generate a nice robots.txt for SEO
